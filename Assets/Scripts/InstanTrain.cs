@@ -6,6 +6,7 @@ public class InstanTrain : MonoBehaviour
 {
    
     // Moving it all to github testing
+    // seeing if it works now
     
     public GameObject Pink;
     void Start()
